@@ -8,7 +8,7 @@
   <h3 align="center">Data Structures and Algorithms in python</h3>
 
   <p align="center">
-    This repository for studying data structure and algorithm has been made with simple example codes.   
+    This repository for studying the essential of CS has been made with simple example codes.   
     <br />
     <br />
   </p>
