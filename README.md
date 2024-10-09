@@ -13,3 +13,22 @@
     <br />
   </p>
 </p>
+
+## Getting started
+
+### Required language
+
+I'm currently using Python 3.11.1, perhaps previous version would works normally because it does not use high version keywords or something.
+
+### instruction
+
+1. command line
+
+```bash
+git clone https://github.com/1-moon/dsNalgo
+cd dsNalgo/"choose any folder"
+python (filename).py
+```
+
+2. IDE
+   Run -> start Debugging
