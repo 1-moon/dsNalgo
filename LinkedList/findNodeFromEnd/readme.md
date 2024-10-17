@@ -14,5 +14,5 @@ Unlike previous examples where a fast pointer goes two steps at time using `.nex
 we are moving the fast ptr k nodes ahead.
 
 `for _ in range(k) { fast= fast.next }`
-This loop will advance the fast ptr k nodes forward, therebu creating a gap of k nodes between
+This loop will advance the fast ptr k nodes forward, therebㅛ creating a gap of k nodes between
 `slow` and `fast`
