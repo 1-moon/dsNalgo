@@ -9,8 +9,8 @@ Change the direction of the pointers between nodes so that they point in the opp
 
 ### instruction
 
-1. set head to current node
-2. swap the prev and next pointers of node points to until temp is none
+1. set head to current_node
+2. swap the prev and next pointers of node points to until current_node is none
 3. swap head and tail
    ![result_1](https://github.com/user-attachments/assets/ece3b082-322a-490d-aa46-7b9e40688074)
    ![situation_1](https://github.com/user-attachments/assets/e29b01a0-9afd-453a-8da6-70279a2efe39)
